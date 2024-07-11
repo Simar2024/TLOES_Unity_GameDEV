@@ -1,1 +1,1 @@
-# TLOES_Unity_GameDEV
+# TLOES_Unity_GameDEV- TLOES is a story mode game in which the life decisions of the farmers son shape the story and the ending of the game. The game was developed as a part of my software team project. The game was developed using UNITY gaming engine. The language used to code the game is C#. The database, login and authentication features are connected to firebase. The game has not be released on web but can be run and played scene by scene of unity with some incomplete features.
