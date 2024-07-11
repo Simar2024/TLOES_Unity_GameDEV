@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 102cd6e59845c4f4ea6f3f8ac7e627ef, type: 3}
+  m_Name: KnightsLetter
+  m_EditorClassIdentifier: 
+  questNumber: 1
+  isActive: 0
+  completionStatus: 0
+  dependentQuest: {fileID: 11400000, guid: 603aad6306cb9d74c8f716b6d40953c9, type: 2}
+  title: The Knight's Letter
+  description: Write the letter for the knight to his family.
+  favourabilityReward: 5
+  goldReward: 0
+  objectives:
+  - {fileID: 11400000, guid: 3253d0401e8e0da4f86fd71829166132, type: 2}
+  - {fileID: 11400000, guid: 99b37e6ec6ff903478454c5000ba5fa1, type: 2}
+  - {fileID: 11400000, guid: ab9e3ff8f8eb3354b8c83094467df76b, type: 2}

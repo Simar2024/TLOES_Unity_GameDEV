@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 102cd6e59845c4f4ea6f3f8ac7e627ef, type: 3}
+  m_Name: PriestsHolyWater
+  m_EditorClassIdentifier: 
+  questNumber: 2
+  isActive: 0
+  completionStatus: 0
+  dependentQuest: {fileID: 11400000, guid: 942478911dba8934c9f0b839632d688d, type: 2}
+  title: Priests Holy Water
+  description: Gather Holy water and return it to the Priest.
+  favourabilityReward: 5
+  goldReward: 0
+  objectives:
+  - {fileID: 11400000, guid: 6098a56bcc3ccb741b2230231c58a70c, type: 2}
+  - {fileID: 11400000, guid: 9a180a8d25f23b240a1c2d9fda6d25f7, type: 2}
